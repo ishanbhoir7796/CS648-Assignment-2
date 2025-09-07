@@ -14,12 +14,17 @@ This project is a static website developed for CS648, showcasing Vecta Corporati
 
 ## File Structure
 
-/images/ # Folder containing all images used
-index.html # Main landing page
-aboutus.html # About Us page
-solutions.html # Solutions page
-contactus.html # Contact Us page
-style.css # External stylesheet for layout and styling
+## File Structure
+
+```plaintext
+/assets/           # Contents of individual pages in Text Document  
+/images/           # Folder containing all images used
+index.html         # Main landing page
+aboutus.html       # About Us page
+solutions.html     # Solutions page
+contactus.html     # Contact Us page
+style.css          # External stylesheet for layout and styling
+```
 
 
 ## Setup Instructions
