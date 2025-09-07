@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 90%;
+}
+
+main p {
+    line-height: 1.6;
+    margin-bottom: 1.5em;
+}
+
+nav {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+}
+
+header,
+footer {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.product-logo {
+    width: 90px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.people-photo {
+    width: 120px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 10px;
+}
