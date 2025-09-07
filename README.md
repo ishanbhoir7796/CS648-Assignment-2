@@ -14,8 +14,6 @@ This project is a static website developed for CS648, showcasing Vecta Corporati
 
 ## File Structure
 
-## File Structure
-
 ```plaintext
 /assets/           # Contents of individual pages in Text Document  
 /images/           # Folder containing all images used
